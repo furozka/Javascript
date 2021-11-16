@@ -18,7 +18,7 @@ let scoreCalc = function (x) {
 while (life > 0) {
 
 
-    let guess = Number(prompt("tahmin"));
+    let guess = Number(prompt("guess: "));
     if (guess < number) {
         count += 1;
         life -= 1;
