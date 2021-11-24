@@ -1,0 +1,6 @@
+.fas{
+    cursor: pointer;
+}
+.fas:hover{
+    opacity: 0.8;
+}
